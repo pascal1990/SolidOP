@@ -1,0 +1,11 @@
+C:\Users\Owner\source\repos\ConsoleOpenClosedP\ConsoleOpenClosedP\bin\Debug\netcoreapp2.1\ConsoleOpenClosedP.deps.json
+C:\Users\Owner\source\repos\ConsoleOpenClosedP\ConsoleOpenClosedP\bin\Debug\netcoreapp2.1\ConsoleOpenClosedP.runtimeconfig.json
+C:\Users\Owner\source\repos\ConsoleOpenClosedP\ConsoleOpenClosedP\bin\Debug\netcoreapp2.1\ConsoleOpenClosedP.runtimeconfig.dev.json
+C:\Users\Owner\source\repos\ConsoleOpenClosedP\ConsoleOpenClosedP\bin\Debug\netcoreapp2.1\ConsoleOpenClosedP.dll
+C:\Users\Owner\source\repos\ConsoleOpenClosedP\ConsoleOpenClosedP\bin\Debug\netcoreapp2.1\ConsoleOpenClosedP.pdb
+C:\Users\Owner\source\repos\ConsoleOpenClosedP\ConsoleOpenClosedP\obj\Debug\netcoreapp2.1\ConsoleOpenClosedP.csprojAssemblyReference.cache
+C:\Users\Owner\source\repos\ConsoleOpenClosedP\ConsoleOpenClosedP\obj\Debug\netcoreapp2.1\ConsoleOpenClosedP.csproj.CoreCompileInputs.cache
+C:\Users\Owner\source\repos\ConsoleOpenClosedP\ConsoleOpenClosedP\obj\Debug\netcoreapp2.1\ConsoleOpenClosedP.AssemblyInfoInputs.cache
+C:\Users\Owner\source\repos\ConsoleOpenClosedP\ConsoleOpenClosedP\obj\Debug\netcoreapp2.1\ConsoleOpenClosedP.AssemblyInfo.cs
+C:\Users\Owner\source\repos\ConsoleOpenClosedP\ConsoleOpenClosedP\obj\Debug\netcoreapp2.1\ConsoleOpenClosedP.dll
+C:\Users\Owner\source\repos\ConsoleOpenClosedP\ConsoleOpenClosedP\obj\Debug\netcoreapp2.1\ConsoleOpenClosedP.pdb
